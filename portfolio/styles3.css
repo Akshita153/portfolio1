@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    background:url('dimlap.webp') no-repeat;
+}
+
+.skills h3 {
+    font-size: 40px;
+    color:#B5CB99 ;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.skills ul {
+    font-size: 20px;
+    color: #BEFFF7;
+}
+
+.skills a {
+    text-decoration: dotted;
+}
+

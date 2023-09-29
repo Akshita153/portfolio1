@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    background:url('dimlap.webp') no-repeat;
+}
+
+.Aboutme-content h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color:#EF9595;
+    padding-left: 590px;
+    padding-top: 50px;
+    padding-right: 50px;
+   
+    
+}
+
+.Aboutme-content img {
+    height:250px;
+    width: 250px;
+    margin-left: 570px;
+}
+
+.Aboutme-content p {
+    font-size: 28px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color:#FFF5E0;
+}
+
+.card{
+    margin-left: 50px;
+}
+
+ul{
+    color:#EF9595;
+}
